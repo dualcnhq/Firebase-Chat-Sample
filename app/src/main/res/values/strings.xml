@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Test</string>
+
+    <string name="hint_any_text">Any text here</string>
+
+    <string name="text_send">Send</string>
+</resources>
